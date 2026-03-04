@@ -1,6 +1,6 @@
-# RockPhyPy - Rock Physics Screening from Well Logs (Colab)
+# Rockphypy - Rock Physics Screening from Well Logs (Colab)
 
-This repository contains a **Google Colab** workflow that uses **RockPhyPy** to perform **rock physics screening** (Vp vs porosity trends and elastic bounds) from **LAS well log data**. The workflow follows the RockPhyPy *rock physics screening* example and adapts it to log-derived inputs (Vp, porosity, Vsh).
+This repository contains a **Google Colab** workflow that uses **Rockphypy** to perform **rock physics screening** (Vp vs porosity trends and elastic bounds) from **LAS well log data**. The workflow follows the Rockphypy *rock physics screening* example and adapts it to log-derived inputs (Vp, porosity, Vsh).
 
 ---
 
